@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo ao meu perfil
 
 
-- 🔭 Atualmente trabalhando como auxiliar administrativ
+- 🔭 Atualmente trabalhando como auxiliar de performance em marketing digital
 - 🌱 Estudando analise e desenvolvimento de sistemas   
 - 📫 Contate-me pelo email: bilgabriel124@gmail.com
 
