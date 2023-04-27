@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Gabriel Arthur</h1>
 <h3 align="center">Apaixonado em desenvolvimento de programas</h3>
 
-- 🌱 Atualmente estou estudando **Analise e desenvolvimento de sistemas**
+- 🌱 Atualmente estou estudando **Analise e desenvolvimento de sistemas aprendendo sobre Dart e Flutter**
 
 - 📫 Contate-me através **bilgabriel124@gmail.com**
 
